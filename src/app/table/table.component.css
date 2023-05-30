@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+.demo-table {
+    width: 100%;
+  }
+
+  .demo-button-container {
+    padding-bottom: 16px;
+  }
+  
+  .demo-button + .demo-button {
+    margin-left: 8px;
+  }
+
+  body{
+    background-color: lightblue;
+    color: blue !important;
+  }
+
+  .coloreTabella{
+    background-color: lightblue;
+    box-shadow: 5px 10px black;
+    border: 2px solid black;
+  }
+
+  h1{
+    color: black;
+    font-family: 'Rubik Puddles', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+
+  }
+
+  th{
+    font-size: 35px;
+    color: black;
+  }
+
+  td{
+    color:blue;
+    
+  }
+
+
